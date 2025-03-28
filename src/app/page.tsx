@@ -21,7 +21,7 @@ export default function Home() {
         <h3>
           이미 가입하셨나요?
           <button>
-            <Link href={"/i/flow/login"}>로그인</Link>
+            <Link href={"/i/flow/login"}>로그하기기</Link>
 
           </button>
         </h3>
