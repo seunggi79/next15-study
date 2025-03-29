@@ -1,8 +1,5 @@
 import { redirect } from "next/navigation";
 
-export default function Login() {
+export default function Page() {
     redirect("/i/flow/login");
-
-
-    
 }
